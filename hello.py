@@ -26,3 +26,4 @@ b = 4
 # .upper -> 대문자  / .lower -> 소문자
 # .strip -> 공백 없애줌
 # .split 문자열 기준으로 자른다
+print("o?")
